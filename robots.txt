@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://wasiat4d.js.org/sitemap.xml
